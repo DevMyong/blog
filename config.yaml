@@ -1,4 +1,4 @@
-baseURL: "myong.dev"
+baseURL: "https://myong.dev"
 languageCode: "ko-kr"
 title: "Dev Logs | DevMyong"
 pygmentsstyle: 'monokai'
