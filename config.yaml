@@ -3,6 +3,7 @@ languageCode: "ko-kr"
 title: "Dev Logs | DevMyong"
 pygmentsstyle: 'monokai'
 paginate: 6
+theme: "novela-hugo"
 disqusShorname: "devmyong"
 googleAnalytics: "249938372"
 social:
