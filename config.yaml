@@ -1,0 +1,16 @@
+baseURL: "myong.dev"
+languageCode: "ko-kr"
+title: "Dev Logs | DevMyong"
+pygmentsstyle: 'monokai'
+paginate: 6
+disqusShorname: "devmyong"
+#googleAnalytics: "249938372"
+social:
+  #  twitter: "#"
+  github: "https://github.com/devmyong"
+  #  instagram: "#"
+  #  linkedin: "#"
+  #  dribbble: "#"
+  #  youtube: "#"
+taxonomies:
+  author: authors
