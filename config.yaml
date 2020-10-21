@@ -5,7 +5,6 @@ pygmentsstyle: 'monokai'
 paginate: 6
 theme: "novela-hugo"
 disqusShorname: "devmyong"
-googleAnalytics: "249938372"
 social:
   #  twitter: "#"
   github: "https://github.com/devmyong"
