@@ -4,13 +4,13 @@ title: "Dev Logs | DevMyong"
 pygmentsstyle: 'monokai'
 paginate: 6
 theme: "novela-hugo"
-disqusShorname: "devmyong"
+disqusShortname: "devmyong"
 social:
-  #  twitter: "#"
+  #twitter: "#"
   github: "https://github.com/devmyong"
-  #  instagram: "#"
-  #  linkedin: "#"
-  #  dribbble: "#"
-  #  youtube: "#"
+  #instagram: "#"
+  linkedin: "https://www.linkedin.com/in/daemyeong-kwon-b1b95618b/"
+  #dribbble: "#"
+  #youtube: "#"
 taxonomies:
   author: authors
